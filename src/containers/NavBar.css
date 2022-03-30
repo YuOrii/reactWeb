@@ -1,0 +1,8 @@
+@media all and (min-width: 480px) {
+    .Login {
+        display: flex;
+        flex-direction: column;
+        flex: .3;
+        align-items: center;
+    }
+}
