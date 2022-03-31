@@ -60,7 +60,7 @@ const App = () => {
 
     return (
         <UserContext.Provider value={value}>
-            <div style={divStyle}>
+            <div style={divStyle} className="Pane">
                 <div className="Login">
                     <LeftPane/>
                 </div>

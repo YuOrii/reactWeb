@@ -1,4 +1,8 @@
 @media all and (min-width: 480px) {
+    .Pane{
+        overflow: hidden
+    }
+
     .Login {
         display: flex;
         flex-direction: column;
